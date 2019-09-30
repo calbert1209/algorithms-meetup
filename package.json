@@ -1,0 +1,23 @@
+{
+  "name": "algo-meetup",
+  "version": "1.0.0",
+  "description": "Let's make our heads hurt together :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calbert1209/algorithms-meetup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calbert1209/algorithms-meetup/issues"
+  },
+  "homepage": "https://github.com/calbert1209/algorithms-meetup#readme",
+  "dependencies": {
+    "cli-color": "^1.4.0"
+  }
+}
